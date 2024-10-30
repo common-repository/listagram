@@ -1,0 +1,18 @@
+
+.account-token-input {
+    width: 300px;
+}
+
+.listagram-form-table {
+    width: 800px;
+    max-width: 100%;
+}
+
+.listagram-account-warning {
+    box-sizing: border-box;
+    border: 5px dotted #cc4444;
+    padding: 0 30px;
+    width: 600px;
+    max-width: 100%;
+    padding-bottom: 10px;
+}
